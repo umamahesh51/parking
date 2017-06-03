@@ -1,0 +1,1 @@
+It’s a C application where we have three floors to park the vehicles 2 wheelers , 4 wheelers and SUV’s where SUV’s by default  should  be  parked  in 1st floor ,they can be parked any of the 3 floors. All other vehicles have to  be  parked in ground floor or in 2nd floor only. (Using   Dynamic Memory   allocation).
